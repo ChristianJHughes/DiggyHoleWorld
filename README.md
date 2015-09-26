@@ -1,5 +1,5 @@
 # Diggy Hole World
-<b>A tech demo demonstrating a procedurally generated 2D tile map. In the vain of Minecraft. It even includes a playable animated character.<b>
+<b>A tech demo demonstrating a procedurally generated 2D tile map. In the vain of Minecraft. It even includes a playable animated character.</b>
 
 Web based using vanilla HTML5 and Javascript. Rendering via the canvas element ensures compatibility with all major browsers.
 
